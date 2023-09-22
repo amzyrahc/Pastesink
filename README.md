@@ -1,5 +1,5 @@
 ## What is Pastesink?
-Pastesink is an open-source text storing website made by me.
+Pastesink is an open-source text storing website made using Flask.
 
 ## How does it store pastes?
 Currently it stores it into *pastes.json* with encryption to protect people's privacy.
